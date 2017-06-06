@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kushan_lab05_ex01", "kushan_lab05_ex01\kushan_lab05_ex01.csproj", "{94EC996C-7E9D-4902-8184-BD12FCBA15A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kushan_lab05_ex01(Test)", "kushan_lab05_ex01(Test)\kushan_lab05_ex01(Test).csproj", "{F5E6B0FC-84BB-470F-AAD1-4CC428BFE1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94EC996C-7E9D-4902-8184-BD12FCBA15A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EC996C-7E9D-4902-8184-BD12FCBA15A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EC996C-7E9D-4902-8184-BD12FCBA15A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EC996C-7E9D-4902-8184-BD12FCBA15A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E6B0FC-84BB-470F-AAD1-4CC428BFE1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E6B0FC-84BB-470F-AAD1-4CC428BFE1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E6B0FC-84BB-470F-AAD1-4CC428BFE1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E6B0FC-84BB-470F-AAD1-4CC428BFE1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

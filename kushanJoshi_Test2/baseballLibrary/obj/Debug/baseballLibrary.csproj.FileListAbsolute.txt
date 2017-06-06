@@ -1,0 +1,12 @@
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\Baseball.mdf
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\Baseball_log.ldf
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\baseballLibrary.dll.config
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\baseballLibrary.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\baseballLibrary.pdb
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\EntityFramework.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\EntityFramework.xml
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\obj\Debug\baseballLibrary.csprojResolveAssemblyReference.cache
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\obj\Debug\baseballLibrary.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\baseballLibrary\obj\Debug\baseballLibrary.pdb

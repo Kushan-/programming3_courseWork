@@ -1,0 +1,17 @@
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\kushan_Lab06_ex01.exe.config
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\Baseball.mdf
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\Baseball_log.ldf
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\kushan_Lab06_ex01.exe
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\kushan_Lab06_ex01.pdb
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\EntityFramework.dll
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\EntityFramework.SqlServer.dll
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\kushan_Lab06_db.dll
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\kushan_Lab06_db.pdb
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\EntityFramework.xml
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\bin\Debug\EntityFramework.SqlServer.xml
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\obj\Debug\kushan_Lab06_ex01.csprojResolveAssemblyReference.cache
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\obj\Debug\kushan_Lab06_ex01.baseBall_dbView.resources
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\obj\Debug\kushan_Lab06_ex01.Properties.Resources.resources
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\obj\Debug\kushan_Lab06_ex01.csproj.GenerateResource.Cache
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\obj\Debug\kushan_Lab06_ex01.exe
+H:\17W\kushan_Lab06\kushan_Lab06_db\kushan_Lab06_ex01\obj\Debug\kushan_Lab06_ex01.pdb

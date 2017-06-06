@@ -1,0 +1,7 @@
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\obj\Debug\QueueInheritancelib.csprojResolveAssemblyReference.cache
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\bin\Debug\QueueInheritancelib.dll
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\bin\Debug\QueueInheritancelib.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\bin\Debug\linkedListStr.dll
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\bin\Debug\linkedListStr.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\obj\Debug\QueueInheritancelib.dll
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex03\QueueInheritancelib\obj\Debug\QueueInheritancelib.pdb

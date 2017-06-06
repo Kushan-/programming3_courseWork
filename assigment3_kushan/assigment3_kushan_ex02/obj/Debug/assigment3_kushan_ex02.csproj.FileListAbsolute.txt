@@ -1,0 +1,6 @@
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex02\bin\Debug\assigment3_kushan_ex02.exe.config
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex02\bin\Debug\assigment3_kushan_ex02.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex02\bin\Debug\assigment3_kushan_ex02.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex02\obj\Debug\assigment3_kushan_ex02.csprojResolveAssemblyReference.cache
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex02\obj\Debug\assigment3_kushan_ex02.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex02\obj\Debug\assigment3_kushan_ex02.pdb

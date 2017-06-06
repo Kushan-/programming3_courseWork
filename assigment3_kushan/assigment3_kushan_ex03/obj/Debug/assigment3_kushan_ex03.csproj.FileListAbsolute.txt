@@ -1,0 +1,9 @@
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\bin\Debug\assigment3_kushan_ex03.exe.config
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\bin\Debug\assigment3_kushan_ex03.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\bin\Debug\assigment3_kushan_ex03.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\obj\Debug\assigment3_kushan_ex03.csprojResolveAssemblyReference.cache
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\obj\Debug\assigment3_kushan_ex03.Form1.resources
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\obj\Debug\assigment3_kushan_ex03.Properties.Resources.resources
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\obj\Debug\assigment3_kushan_ex03.csproj.GenerateResource.Cache
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\obj\Debug\assigment3_kushan_ex03.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\assigment3_kushan_ex03\obj\Debug\assigment3_kushan_ex03.pdb

@@ -1,0 +1,6 @@
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\assigment3_kushan\ConsoleApp1\obj\Debug\assigment3_kushan_ex04.csprojResolveAssemblyReference.cache

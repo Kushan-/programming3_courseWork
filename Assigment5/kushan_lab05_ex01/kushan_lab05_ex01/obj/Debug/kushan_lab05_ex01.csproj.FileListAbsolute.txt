@@ -1,0 +1,8 @@
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\bin\Debug\kushan_lab05_ex01.exe.config
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\bin\Debug\kushan_lab05_ex01.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\bin\Debug\kushan_lab05_ex01.pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\bin\Debug\kushan_lab05_ex01(Test).dll
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\bin\Debug\kushan_lab05_ex01(Test).pdb
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\obj\Debug\kushan_lab05_ex01.csprojResolveAssemblyReference.cache
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\obj\Debug\kushan_lab05_ex01.exe
+C:\Users\kush\Documents\Visual Studio 2017\Projects\Assigment5\kushan_lab05_ex01\kushan_lab05_ex01\obj\Debug\kushan_lab05_ex01.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kushan_lab05_ex03", "kushan_lab05_ex03\kushan_lab05_ex03.csproj", "{3CFE41AD-18C4-43F0-A1D6-C5932183773A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linkedListStr", "linkedListStr\linkedListStr.csproj", "{ED5641DC-9E1A-4709-BA09-C575E05E55EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueInheritancelib", "QueueInheritancelib\QueueInheritancelib.csproj", "{D2C6E75A-C71E-428B-A045-A5EF7968466A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFE41AD-18C4-43F0-A1D6-C5932183773A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFE41AD-18C4-43F0-A1D6-C5932183773A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFE41AD-18C4-43F0-A1D6-C5932183773A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFE41AD-18C4-43F0-A1D6-C5932183773A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5641DC-9E1A-4709-BA09-C575E05E55EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5641DC-9E1A-4709-BA09-C575E05E55EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5641DC-9E1A-4709-BA09-C575E05E55EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5641DC-9E1A-4709-BA09-C575E05E55EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C6E75A-C71E-428B-A045-A5EF7968466A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C6E75A-C71E-428B-A045-A5EF7968466A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C6E75A-C71E-428B-A045-A5EF7968466A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C6E75A-C71E-428B-A045-A5EF7968466A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

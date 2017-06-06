@@ -1,0 +1,15 @@
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\kushanJoshi_Test2_sec003_ex01.exe.config
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\obj\Debug\kushanJoshi_Test2_sec003_ex01.csprojResolveAssemblyReference.cache
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\obj\Debug\kushanJoshi_Test2_sec003_ex01.Form1.resources
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\obj\Debug\kushanJoshi_Test2_sec003_ex01.Properties.Resources.resources
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\obj\Debug\kushanJoshi_Test2_sec003_ex01.csproj.GenerateResource.Cache
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\kushanJoshi_Test2_sec003_ex01.exe
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\kushanJoshi_Test2_sec003_ex01.pdb
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\baseballLibrary.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\EntityFramework.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\baseballLibrary.pdb
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\EntityFramework.xml
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\obj\Debug\kushanJoshi_Test2_sec003_ex01.exe
+C:\Users\300873962\Desktop\kushanJoshi_Test2\kushanJoshi_Test2_sec003_ex01\obj\Debug\kushanJoshi_Test2_sec003_ex01.pdb
